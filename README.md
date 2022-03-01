@@ -5,7 +5,7 @@
 The data given is related with direct marketing campaigns of a banking institution. The goal of this mini project is to train a Neural Network Model in order to predict whether a client would respond positive or negative to the campaign and subscribe to a term bank deposit.
 Note: the project was done in Google Colab, therefore before running the code you need to put .csv file into Google Colab explorer. 
 
-<b>Data processing<b>
+<b>Data processing</b>
   
 The data was checked on/got rid off:
   
